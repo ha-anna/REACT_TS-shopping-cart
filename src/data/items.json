@@ -2,31 +2,31 @@
   {
     "id": 1,
     "name": "Mailerbox",
-    "price": 20,
+    "price": 20000,
     "imgUrl": "/images/box1.webp"
   },
   {
     "id": 2,
     "name": "Productbox",
-    "price": 30.99,
+    "price": 30999,
     "imgUrl": "/images/box2.webp"
   },
   {
     "id": 3,
     "name": "Corrugated Productbox",
-    "price": 25,
+    "price": 25000,
     "imgUrl": "/images/box3.webp"
   },
   {
     "id": 4,
     "name": "Papermailer",
-    "price": 16,
+    "price": 160000,
     "imgUrl": "/images/box4.webp"
   },
   {
     "id": 5,
     "name": "Donutbox",
-    "price": 45.05,
+    "price": 450500,
     "imgUrl": "/images/box5.webp"
   }
 ]
