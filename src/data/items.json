@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Mailerbox",
+    "name": "Fruit Mix",
     "price": 20000,
-    "imgUrl": "/images/box1.webp"
+    "imgUrl": "/images/mix.jpg"
   },
   {
     "id": 2,
-    "name": "Productbox",
+    "name": "Watermelon",
     "price": 30999,
-    "imgUrl": "/images/box2.webp"
+    "imgUrl": "/images/subak.jpg "
   },
   {
     "id": 3,
-    "name": "Corrugated Productbox",
+    "name": "Avocado",
     "price": 25000,
-    "imgUrl": "/images/box3.webp"
+    "imgUrl": "/images/avocado.jpg"
   },
   {
     "id": 4,
-    "name": "Papermailer",
+    "name": "Banana",
     "price": 160000,
-    "imgUrl": "/images/box4.webp"
+    "imgUrl": "/images/banana.jpg"
   },
   {
     "id": 5,
-    "name": "Donutbox",
+    "name": "Tangerine",
     "price": 450500,
-    "imgUrl": "/images/box5.webp"
+    "imgUrl": "/images/gyul.jpg"
   }
 ]
